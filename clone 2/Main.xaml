@@ -78,6 +78,6 @@
     <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" AutoCloseAfter="00:00:00" DisplayName="Message Box" sap:VirtualizedContainerService.HintSize="450,123" sap2010:WorkflowViewState.IdRef="MessageBox_1" Text="[&quot;hi there this is clone 2&quot;]" />
     <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" AutoCloseAfter="00:00:00" DisplayName="Message Box" sap:VirtualizedContainerService.HintSize="450,123" sap2010:WorkflowViewState.IdRef="MessageBox_2" Text="[&quot;hope you are fine with uipath&quot;]" />
     <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" AutoCloseAfter="00:00:00" DisplayName="Message Box" sap:VirtualizedContainerService.HintSize="450,123" sap2010:WorkflowViewState.IdRef="MessageBox_3" Text="[&quot;this is from clone 2&quot;]" />
-    <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" AutoCloseAfter="00:00:00" DisplayName="Message Box" sap:VirtualizedContainerService.HintSize="450,114" sap2010:WorkflowViewState.IdRef="MessageBox_4" Text="[&quot;again hi from 2&quot;]" />
+    <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" AutoCloseAfter="00:00:00" DisplayName="Message Box" sap:VirtualizedContainerService.HintSize="450,114" sap2010:WorkflowViewState.IdRef="MessageBox_4" Text="[&quot;again hi from 2         2&quot;]" />
   </Sequence>
 </Activity>
